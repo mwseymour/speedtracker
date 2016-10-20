@@ -82,7 +82,7 @@ wptKey: "1462f2d2f668d73d3da9be51539f40876b9ae86e988214dbbb9b43b1797af6537476"
 #alerts:
 #  emailAlert:
 #    type: "email"
-#    recipients: ["ENCRYPTED_EMAIL_ADDRESS"]
+#    recipients: ["ENCRYPTED_EMAIL_ADDRESS_here"]
 #  otherEmailAlert:
 #    type: "email"
 #    recipients: ["ENCRYPTED_EMAIL_ADDRESS2", "ENCRYPTED_EMAIL_ADDRESS3"]
